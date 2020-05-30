@@ -8,3 +8,6 @@ Created on Sat May 30 09:51:27 2020
 
 print("Enter 1st number:")
 a=int(input())
+print(a)
+
+print("Babs")
