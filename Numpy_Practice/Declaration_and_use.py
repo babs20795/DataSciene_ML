@@ -21,6 +21,13 @@ b = np.array([4, 5, 6, 7, 8])
 print("Array a = ",a ,"Array b = ",b)
 
 print("Array Addition = ",(a+b))
+# O/p: Array Addition =  [ 5  7  9 11 13]
+
 print("Array Subtraction(b-a) = ",(b-a))
+# O/p: Array Subtraction(b-a) =  [3 3 3 3 3]
+
 print("Array Multiplication = ",(a*b))
+# O/p: Array Multiplication =  [ 4 10 18 28 40]
+
 print("Array Division = ",(b/a))
+# O/p: Array Division =  [4.   2.5  2.   1.75 1.6 ]
