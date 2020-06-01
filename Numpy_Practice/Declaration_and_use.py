@@ -15,3 +15,12 @@ print("Array = ",a)
 a = np.arange(1, 10, 2)
 
 print ("Array =",a)
+
+a = np.array([1, 2, 3, 4, 5])
+b = np.array([4, 5, 6, 7, 8])
+print("Array a = ",a ,"Array b = ",b)
+
+print("Array Addition = ",(a+b))
+print("Array Subtraction(b-a) = ",(b-a))
+print("Array Multiplication = ",(a*b))
+print("Array Division = ",(b/a))
