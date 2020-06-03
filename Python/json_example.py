@@ -21,11 +21,11 @@ book["Word power made easy"]={
 
 s=json.dumps(book)
 
-f=open("F:\\Data Science\\Practice\\First_Python\\json_data.txt","w+")
+f=open("json_data.txt","w+")
 f.write(s)
 f.close()
 
-f=open("F:\\Data Science\\Practice\\First_Python\\json_data.txt","r")
+f=open("json_data.txt","r")
 data=f.read()
 book=json.loads(data)
 print(book["Alchemist"]["price"])

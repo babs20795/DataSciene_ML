@@ -12,7 +12,7 @@ f.close()
 """
 import time
 
-f=open("F:\\Data Science\\Practice\\First_Python\\abc.txt","r")
+f=open("abc.txt","r")
 for line in f.readlines():
     print(line)
     time.sleep(2) 

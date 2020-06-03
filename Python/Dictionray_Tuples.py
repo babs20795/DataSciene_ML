@@ -13,14 +13,14 @@ for i in a:
 # Dictionary =mutable
     
 d={
-   "babs":1,
-   "sam":2,
-   "akki":3,
-   "nil":4,
+   "Ace":1,
+   "Jenette":2,
+   "Amen":3,
+   "Alex":4,
    }
 
 # Printing using key value
-print("babs' Roll No=",d["babs"])
+print("Jenette's Roll No = ",d["Jenette"])
 
 # using for loop
 for i in d:
@@ -31,4 +31,4 @@ for k,v in d.items():
     print(k," roll no=",v)
     
 # checking key is present or not
-    print("babs" in d)
+    print("Ace" in d)
