@@ -1,0 +1,11 @@
+Date,Country,Age,Salary,Purchased
+20-07-2010,France,44,72000,No
+22-07-2010,Spain,27,48000,Yes
+25-08-2010,Germany,30,54000,No
+13-09-2010,Spain,38,61000,No
+18-09-2010,Germany,40,,Yes
+20-04-2011,France,35,58000,Yes
+14-07-2013,Spain,,52000,No
+25-09-2015,France,48,79000,Yes
+15-01-2014,Germany,50,83000,No
+22-05-2013,France,37,67000,Yes
